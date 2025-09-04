@@ -1,6 +1,11 @@
 # Introduction
 **NOTE: Utilizing programming help tools like ChatGPT or Copilot, as well as installing additional packages, is strictly prohibited.**
 
+clone and npm install
+then run test and watch dog
+
+pnpm test
+
 The test is divided into two parts, a refactoring part and an implementation part.
 - The refactoring part is meant to test your ability to refactor code and apply clean code principles. 
 - The implementation part is meant to test your ability to reuse existing code and solve problems.
